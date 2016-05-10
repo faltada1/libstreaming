@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="debug"><source path="/Users/danielfalta/Documents/AndroidStudioProjects/flirt_mobile_android/library/libstr/build/intermediates/bundles/debug/assets"/></dataSet><dataSet config="main"><source path="/Users/danielfalta/Documents/AndroidStudioProjects/flirt_mobile_android/library/libstr/src/androidTest/assets"/><source path="/Users/danielfalta/Documents/AndroidStudioProjects/flirt_mobile_android/library/libstr/build/generated/assets/shaders/androidTest/debug"/></dataSet></merger>
